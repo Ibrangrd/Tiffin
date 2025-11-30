@@ -1,0 +1,2027 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "NH1 Bowls - Highway To North",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "390170",
+                            "name": "NH1 Bowls - Highway To North",
+                            "city": "Noida 1",
+                            "slugs": {
+                                "restaurant": "nh1-bowls-highway-to-north-gyan-khand-ii-indirapuram",
+                                "city": "noida-1"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "94654fdf308764cd0faf83dba35bcdc3",
+                            "locality": "Indirapuram",
+                            "areaName": "Ghaziabad",
+                            "costForTwo": "25000",
+                            "costForTwoMessage": "₹250 for two",
+                            "cuisines": [
+                                "North Indian",
+                                "Punjabi"
+                            ],
+                            "avgRating": 4.6,
+                            "feeDetails": {
+                                "icon": "v1648635511/Delivery_fee_new_cjxumu"
+                            },
+                            "parentId": "22452",
+                            "avgRatingString": "4.6",
+                            "totalRatingsString": "500+ ratings",
+                            "sla": {
+                                "restaurantId": "390170",
+                                "deliveryTime": 18,
+                                "minDeliveryTime": 13,
+                                "maxDeliveryTime": 23,
+                                "lastMileTravel": 2.8,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "zoneId": 2833,
+                                "slaString": "13-23 MINS",
+                                "lastMileTravelString": "2.7 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2024-04-24 02:00:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use SWIGGY50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "40% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code SWIGGY50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "nh1-bowls-highway-to-north-gyan-khand-ii-indirapuram",
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "PLOT NO. CS-3, Upper Ground Back Side, C.S-4, Sucheta Kriplani Marg, U.G.F, Gyan Khand II, Indirapuram, Ghaziabad, Uttar Pradesh 201014"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "North Indian,Punjabi"
+                                }
+                            ],
+                            "logo": "v1666872284/Brand logo/NH1_Bowls_-_Highway_To_North",
+                            "totalRatings": 500,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use SWIGGY50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "40% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code SWIGGY50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "40% off up to ₹80 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "nudgeBanners": [
+                                {
+                                    "minValue": 209,
+                                    "maxValue": 299,
+                                    "priority": 3,
+                                    "couponCode": "FLAT100",
+                                    "discountInfo": {
+                                        "discountType": "Flat",
+                                        "value": 100
+                                    },
+                                    "lockedMessage": "Add items worth ₹<amount> to save ₹100 | Code FLAT100",
+                                    "unlockedMessage": "FLAT100 Coupon Unlocked! Use it to save ₹100",
+                                    "logoCtx": {}
+                                },
+                                {
+                                    "minValue": 349,
+                                    "maxValue": 499,
+                                    "priority": 4,
+                                    "couponCode": "FLATDEAL",
+                                    "discountInfo": {
+                                        "discountType": "Flat",
+                                        "value": 125
+                                    },
+                                    "lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code FLATDEAL",
+                                    "unlockedMessage": "FLATDEAL Coupon Unlocked! Use it to save ₹125",
+                                    "logoCtx": {}
+                                },
+                                {
+                                    "minValue": 699,
+                                    "maxValue": 999,
+                                    "priority": 5,
+                                    "couponCode": "FLAT175",
+                                    "discountInfo": {
+                                        "discountType": "Flat",
+                                        "value": 175
+                                    },
+                                    "lockedMessage": "Add items worth ₹<amount> to save ₹175 | Code FLAT175",
+                                    "unlockedMessage": "FLAT175 Coupon Unlocked! Use it to save ₹175",
+                                    "logoCtx": {}
+                                }
+                            ],
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/390170"
+                            },
+                            "expectationNotifiers": [
+                                {
+                                    "icon": {
+                                        "imageId": "v1648635511/Delivery_fee_new_cjxumu"
+                                    },
+                                    "popup": {
+                                        "cta": {}
+                                    },
+                                    "type": "DISTANCE_FEE_NON_FOOD_LM",
+                                    "enrichedText": "<b>2.8 km</b> | Delivery fees applicable. Delivered & charged by the restaurant.",
+                                    "halfCardPopup": {
+                                        "halfCardPopupHeader": {}
+                                    },
+                                    "trailingIcon": {}
+                                }
+                            ],
+                            "ratingSlab": "RATING_SLAB_5",
+                            "orderabilityCommunication": {
+                                "title": {},
+                                "subTitle": {},
+                                "message": {},
+                                "customIcon": {}
+                            },
+                            "hasGuiltfreeItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "28.644642,77.352074",
+                            "backgroundImageOverlayInfo": {}
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 5,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "50% OFF UPTO ₹100",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "f57db873-ea65-4b15-b8aa-5a1a9de23714"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE SWIGGY50",
+                                            "description": "ABOVE ₹149",
+                                            "offerType": "offers",
+                                            "restId": "390170",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "40% OFF UPTO ₹80",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "d4b205bd-8452-42dd-bc2e-066127df77ba"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE TRYNEW",
+                                            "description": "ON SELECT ITEMS",
+                                            "offerType": "offers",
+                                            "restId": "390170",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹100 OFF",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "99f54a3f-069d-4a77-9396-c36ecfdc3694"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE FLAT100",
+                                            "description": "ABOVE ₹299",
+                                            "offerType": "offers",
+                                            "restId": "390170",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹125 OFF",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "b8ed76de-fa3f-487c-a6fd-3e8805ef1bff"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE FLATDEAL",
+                                            "description": "ABOVE ₹499",
+                                            "offerType": "offers",
+                                            "restId": "390170",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹175 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "927aca3e-e198-4d2a-b8b4-91a56271f6bf"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE FLAT175",
+                                            "description": "ABOVE ₹999",
+                                            "offerType": "offers",
+                                            "restId": "390170",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "offersFilter": {
+                                                "attributes": {
+                                                    "displayText": "40% OFF"
+                                                }
+                                            },
+                                            "topRatedFilter": {},
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Recommended",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777629",
+                                                            "name": "Punjabi Tandoori Chicken Wings [6 Pcs]",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Boldly spiced with a tandoori hotness, these wings are a crowd puller and crowd pleaser.",
+                                                            "imageId": "xx7hqtgcca9ugovn8rv4",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777608",
+                                                            "name": "Highway Dhaba Chicken Tikka",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Pieces of chicken marinated in raw and rustic spices, this tikka is grilled to perfection.",
+                                                            "imageId": "kg1jxailppehuc1g0e0p",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.2",
+                                                                    "ratingCount": "10 ratings",
+                                                                    "ratingCountV2": "10"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777625",
+                                                            "name": "Peri Peri Chicken Tikka",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Soft and juicy chicken chunks in a blazing hot peri-peri sauce. A perfect pick for when you crave a spicy treat!",
+                                                            "imageId": "toykwyyzdm7yl0rrhmud",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777588",
+                                                            "name": "Desi Ghee Moong Dal Halwa [100 gm]",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "A rich dessert of moong dal roasted in ghee and sugar. It's a melt-in-the-mouth treat with a grainy texture & nutty aroma.",
+                                                            "imageId": "cb3qylbwrobqltgot8tp",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "13 ratings",
+                                                                    "ratingCountV2": "13"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777581",
+                                                            "name": "Choco Lava Delight Cake",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "Molten delight with a chocolate centre, all contained in a soft gooey cake with hints of vanilla.",
+                                                            "imageId": "fgurbzzkccsfeirnqiai",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "16 ratings",
+                                                                    "ratingCountV2": "16"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "type": "CATEGORY_TYPE_RECOMMENDED"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Everyday Classics",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "135410949",
+                                                            "name": "Desi Ghee Dal Khichdi Bowl",
+                                                            "category": "Everyday Classics",
+                                                            "description": "Chilka moong dal, basmati rice, desi ghee, hing, jeera, degi mirch & masalas + Green Chutney + Garlic Yogurt + Salad.",
+                                                            "imageId": "9b1334b947fc8cd5b194ca3c82f7ab79",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "143719313",
+                                                                    "groupName": "Make it a FEAST?",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "116426532",
+                                                                            "name": "Masala Lemonade [200 ml]",
+                                                                            "price": 3000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "116426533",
+                                                                            "name": "Masala Chaas [200 ml]",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "116426531",
+                                                                            "name": "Amritsari Lassi [200 ml]",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537432",
+                                                                            "name": "Pack of Nachos + Pepsi Black [500 ml]",
+                                                                            "price": 6900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537434",
+                                                                            "name": "Pack of Nachos + Pepsi [400 ml]",
+                                                                            "price": 6900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537433",
+                                                                            "name": "Choco Lava Cake + Pepsi Black [500 ml]",
+                                                                            "price": 9900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537435",
+                                                                            "name": "Choco Lava Cake + Pepsi [400 ml]",
+                                                                            "price": 9900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537431",
+                                                                            "name": "Choco Lava Cake + Lipton Ice Tea [250 ml]",
+                                                                            "price": 9900,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 5,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "135410946",
+                                                            "name": "Tadka Curd-Rice Bowl",
+                                                            "category": "Everyday Classics",
+                                                            "description": "Tadke wale dahi-rice, topped with roasted cashews & pomegranate. Everyday comfort food!",
+                                                            "imageId": "78db8b7aa3b1497ae6e0aa2c0148c178",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "143719207",
+                                                                    "groupName": "Make it a FEAST?",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "116426532",
+                                                                            "name": "Masala Lemonade [200 ml]",
+                                                                            "price": 3000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "116426533",
+                                                                            "name": "Masala Chaas [200 ml]",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "116426531",
+                                                                            "name": "Amritsari Lassi [200 ml]",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537432",
+                                                                            "name": "Pack of Nachos + Pepsi Black [500 ml]",
+                                                                            "price": 6900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537434",
+                                                                            "name": "Pack of Nachos + Pepsi [400 ml]",
+                                                                            "price": 6900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537433",
+                                                                            "name": "Choco Lava Cake + Pepsi Black [500 ml]",
+                                                                            "price": 9900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537435",
+                                                                            "name": "Choco Lava Cake + Pepsi [400 ml]",
+                                                                            "price": 9900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "115537431",
+                                                                            "name": "Choco Lava Cake + Lipton Ice Tea [250 ml]",
+                                                                            "price": 9900,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 5,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Chicken Starters",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777629",
+                                                            "name": "Punjabi Tandoori Chicken Wings [6 Pcs]",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Boldly spiced with a tandoori hotness, these wings are a crowd puller and crowd pleaser.",
+                                                            "imageId": "xx7hqtgcca9ugovn8rv4",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "93328753",
+                                                            "name": "Dhuadhaar Chicken Wings [6 Pcs]",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Tossed in homemade peri-peri sauce and rubbed in chillies and garlic, these are wings with a zing!",
+                                                            "imageId": "qbcgj6okd2z43zahqyka",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.9",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96339891",
+                                                            "name": "Pepper Garlic Chicken Wings [6 Pcs]",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Glazed with garlic, herbs & grilled to perfection, these wings are to die for!",
+                                                            "imageId": "l4mtpfzt74ansjjgoswg",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96540085",
+                                                            "name": "Jalandhari Tandoori Chicken Tangdi [2 Pcs]",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Chicken legs marinated in curd, earthy spices & grilled. Real punjabi taste, straight from the streets of Jalandhar.",
+                                                            "imageId": "wjtw7x1mrquwvwfgzn7v",
+                                                            "inStock": 1,
+                                                            "price": 24900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96540084",
+                                                            "name": "Angaara Chicken Tangdi",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Chicken tangdi with a spicy twist of peri peri marination. This starter is here to surprise your taste buds!",
+                                                            "imageId": "zfm3bnonvdvjnjuzfnvh",
+                                                            "inStock": 1,
+                                                            "price": 24900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777608",
+                                                            "name": "Highway Dhaba Chicken Tikka",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Pieces of chicken marinated in raw and rustic spices, this tikka is grilled to perfection.",
+                                                            "imageId": "kg1jxailppehuc1g0e0p",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.2",
+                                                                    "ratingCount": "10 ratings",
+                                                                    "ratingCountV2": "10"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777625",
+                                                            "name": "Peri Peri Chicken Tikka",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Soft and juicy chicken chunks in a blazing hot peri-peri sauce. A perfect pick for when you crave a spicy treat!",
+                                                            "imageId": "toykwyyzdm7yl0rrhmud",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96339886",
+                                                            "name": "Chicken Kali Mirch Tikka",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Tender chicken pieces marinated in cream, black pepper, herbs & tandoor-grilled! A lip-smacking starter.",
+                                                            "imageId": "hllvwvf54g7gaxkmnkyp",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96339894",
+                                                            "name": "Smoky Chicken BBQ",
+                                                            "category": "Chicken Starters",
+                                                            "description": "Chicken pieces seasoned in BBQ sauce. Grilled to a perfect hot & crispy texture. Drooling already?",
+                                                            "imageId": "yjsmvfp3chrjhmgfvm28",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Veg Starters",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96339887",
+                                                            "name": "Classic Tandoori Aloo [10 Pcs]",
+                                                            "category": "Veg Starters",
+                                                            "description": "Baby potatoes marinated in tikka masala & roasted to perfection. Bet you can't resist these!",
+                                                            "imageId": "lyk25338abeifavzjgf5",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96339893",
+                                                            "name": "Peri Peri Tandoori Aloo [10 Pcs]",
+                                                            "category": "Veg Starters",
+                                                            "description": "Baby potatoes marinated in peri peri masala & roasted perfectly. Spice lovers, where you at?",
+                                                            "imageId": "icly3g90huckrnqnfzof",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777599",
+                                                            "name": "Original Paneer Tikka [10 Pcs]",
+                                                            "category": "Veg Starters",
+                                                            "description": "Soft cubes of paneer marinated in spices, curd, zesty lime juice and grilled to perfection for the asli Punjabi swaad!",
+                                                            "imageId": "vbceruxfhpwarobyciim",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 23900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.6",
+                                                                    "ratingCount": "4 ratings",
+                                                                    "ratingCountV2": "4"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777627",
+                                                            "name": "Peri Peri Paneer Tikka [10 Pcs]",
+                                                            "category": "Veg Starters",
+                                                            "description": "Creamy paneer chunks marinated in spicy peri peri masala & hung curd. Grilled to perfection in a tandoor for a smokey flavour.",
+                                                            "imageId": "e7vxschzrs9he0gvb90k",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 23900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isGuiltfree": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Thanda & Meetha",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "120147290",
+                                                            "name": "Choco Lava Cake + Pepsi Combo @ Rs79",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "[Save ₹41] Choco Lava Cake + Pepsi. Make every order a complete feast!",
+                                                            "imageId": "186bceb914faa4249302c59d045db245",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7900,
+                                                            "variants": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "32359557",
+                                                                        "name": "Choose a Drink",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Pepsi Black [500 ml]",
+                                                                                "default": 1,
+                                                                                "id": "100446805",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Pepsi [400 ml]",
+                                                                                "id": "101921678",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Masala Lemonade [200 ml]",
+                                                                                "id": "100446808",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Masala Chaas [200 ml]",
+                                                                                "id": "131970890",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Pepsi [250 ml]",
+                                                                                "id": "100446806",
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Lipton Ice Tea [250 ml]",
+                                                                                "id": "100446807",
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.8",
+                                                                    "ratingCount": "6 ratings",
+                                                                    "ratingCountV2": "6"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "120232654",
+                                                            "name": "Nachos + Pepsi Combo @ Rs49",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "[Save ₹31] Nachos + Pepsi. Perfect sides to complete your order!",
+                                                            "imageId": "0fe891dcf6407b9c006cd62f5487e599",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4900,
+                                                            "variants": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "32359564",
+                                                                        "name": "Choose a Drink",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Pepsi Black [500 ml]",
+                                                                                "default": 1,
+                                                                                "id": "100446825",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Pepsi [400 ml]",
+                                                                                "id": "101921677",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Masala Lemonade [200 ml]",
+                                                                                "id": "100446828",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Masala Chaas [200 ml]",
+                                                                                "id": "131970889",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Pepsi [250 ml]",
+                                                                                "id": "100446826",
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Lipton Ice Tea [250 ml]",
+                                                                                "id": "100446827",
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "6 ratings",
+                                                                    "ratingCountV2": "6"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777588",
+                                                            "name": "Desi Ghee Moong Dal Halwa [100 gm]",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "A rich dessert of moong dal roasted in ghee and sugar. It's a melt-in-the-mouth treat with a grainy texture & nutty aroma.",
+                                                            "imageId": "cb3qylbwrobqltgot8tp",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "13 ratings",
+                                                                    "ratingCountV2": "13"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777632",
+                                                            "name": "Gulab Jamun Minis [100 gm]",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "The desi ghee ke gulab jamun, with a mouth-watering sweetness and an unmatched halwai-expertise.",
+                                                            "imageId": "kybyj7mvpg3taj4pdu1f",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "21 ratings",
+                                                                    "ratingCountV2": "21"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777581",
+                                                            "name": "Choco Lava Delight Cake",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "Molten delight with a chocolate centre, all contained in a soft gooey cake with hints of vanilla.",
+                                                            "imageId": "fgurbzzkccsfeirnqiai",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "16 ratings",
+                                                                    "ratingCountV2": "16"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777633",
+                                                            "name": "Double Chocolate Brownie",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "Loaded with real dark chocolate, this brownie is truly an all-time classic indulgence!",
+                                                            "imageId": "vkzevhm3wpj54a51ckvc",
+                                                            "inStock": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "4 ratings",
+                                                                    "ratingCountV2": "4"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777583",
+                                                            "name": "Overload Chocolate Mousse Cake",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "The classic cake with layers of chocolate and smooth creamy mousse, all covered in whipped cream.",
+                                                            "imageId": "uxiqzi8orc5dbb13nucg",
+                                                            "inStock": 1,
+                                                            "price": 8900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "95146565",
+                                                            "name": "Desi Ghee Moong Dal Halwa [500 gm]",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "This decadent preparation made with moong dal, ghee, & dry fruits is an absolute must-have for a feast!",
+                                                            "imageId": "uq4rqxmk58hvedyn5glz",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 34900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "95146566",
+                                                            "name": "Gulab Jamun Minis [500 gm]",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "Made with fresh mawa, these gulab jamuns are so melt-in-the-mouth! All-time favourite dessert!",
+                                                            "imageId": "wy2vdxkhcinikutck6uw",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 34900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "72777612",
+                                                            "name": "Masala Lemonade [200 ml]",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "Chilled lemon tang with a dash of khatta meetha masala .",
+                                                            "imageId": "crkie2ve8eu72davpnqv",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 2900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "134558444",
+                                                            "name": "Masala Chaas [200 ml]",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "Chaas with a hint of jeera & kala namak. Best drink to complete your meal.",
+                                                            "imageId": "9155609facf49476ad3816c288c92b12",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 3900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "134558445",
+                                                            "name": "Amritsari Lassi [200 ml]",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "Fresh lassi with rich dry fruits, pure kesar & elaichi. An Amritsari delight. Zero added flavours/preservatives.",
+                                                            "imageId": "31662e3ceeeea138d86148d8c4271793",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "96339889",
+                                                            "name": "Masala Raita",
+                                                            "category": "Thanda & Meetha",
+                                                            "description": "Curd raita with a hint of cumin & mint. A delicious side for your fave rice bowl.",
+                                                            "imageId": "adce853ce5508483bede1ccdeb3fd01f",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 3500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE TRYNEW",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "18 ratings",
+                                                                    "ratingCountV2": "18"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 12721052000423"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "NH1 Bowls - Highway To North",
+                                            "area": "Ghaziabad",
+                                            "completeAddress": "PLOT NO. CS-3, Upper Ground Back Side, C.S-4, Sucheta Kriplani Marg, U.G.F, Gyan Khand II, Indirapuram, Ghaziabad, Uttar Pradesh 201014"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "230eb497-c11e-4ba4-9ee1-b922d247f1cf",
+    "sid": "dg02e2b7-5169-4b9e-b011-63b3612ed608",
+    "deviceId": "64859979-50f9-fbba-f1a0-2a50fe587145",
+    "csrfToken": "DYmYXC9l1znC-gPM8vtH1NgG5hFpMHdtWa77PlVg"
+}

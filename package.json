@@ -1,0 +1,45 @@
+{
+    "name": "tiffin",
+    "version": "1.0.0",
+    "description": "Food Delivery App using React Series",
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html",
+        "test": "jest",
+        "watch-test": "jest --watchAll"
+    },
+    "keywords": [
+        "React",
+        "Series"
+    ],
+    "author": "\"Md Ibran\"",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.24.4",
+        "@babel/preset-env": "^7.24.4",
+        "@babel/preset-react": "^7.24.1",
+        "@testing-library/jest-dom": "^6.4.2",
+        "@testing-library/react": "^15.0.2",
+        "autoprefixer": "^10.4.19",
+        "babel-jest": "^29.7.0",
+        "jest": "^29.7.0",
+        "jest-environment-jsdom": "^29.7.0",
+        "parcel": "^2.12.0",
+        "postcss": "^8.4.38",
+        "process": "^0.11.10",
+        "tailwindcss": "^3.4.3"
+    },
+    "dependencies": {
+        "@reduxjs/toolkit": "^2.2.3",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-hot-toast": "^2.4.1",
+        "react-redux": "^9.1.1",
+        "react-router-dom": "^6.22.3",
+        "react-toastify": "^10.0.5",
+        "react-top-loading-bar": "^2.3.1"
+    },
+    "browserslist": [
+        "last 2 versions"
+    ]
+}
